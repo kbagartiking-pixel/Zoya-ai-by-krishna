@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Zoya AI</string>
+    <string name="zoya_brand_title">ZOYA AI</string>
+    <string name="zoya_tagline">Personal Android AI Assistant</string>
+    <string name="accessibility_service_label">Zoya AI Screen Assistant</string>
+    <string name="accessibility_service_description">Optional user-controlled assistant capability that allows Zoya AI to read visible screen text, tap requested UI elements, scroll, and navigate supported apps only when you ask.</string>
+    <string name="notification_listener_label">Zoya AI Notification Reader</string>
+    <string name="foreground_channel_name">Zoya Background Assistant</string>
+    <string name="foreground_channel_description">Shows when Zoya AI background assistant mode is active so you always stay in control.</string>
+    <string name="reminder_channel_name">Zoya Reminders</string>
+    <string name="reminder_channel_description">Alerts for reminders scheduled with Zoya AI.</string>
+    <string name="cd_zoya_avatar">Zoya AI animated anime assistant avatar</string>
+    <string name="cd_settings">Open Settings</string>
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_toggle_api_visibility">Toggle API key visibility</string>
+    <string name="cd_send_message">Send message to Zoya</string>
+    <string name="cd_stop_assistant">Stop Zoya speaking or listening</string>
+    <string name="cd_tap_to_talk">Tap to talk to Zoya</string>
+</resources>

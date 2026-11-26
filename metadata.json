@@ -1,0 +1,6 @@
+{
+  "name": "Zoya AI",
+  "description": "Personal Android AI voice assistant featuring an animated anime girl avatar, bilingual Hindi/English/Hinglish voice control, real Android app and settings automation, and Keystore-encrypted Gemini API configuration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
